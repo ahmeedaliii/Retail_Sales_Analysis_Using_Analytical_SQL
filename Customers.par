@@ -1,0 +1,6 @@
+userid=hr/root
+control=Customers.ctl
+log=Customers.log
+bad=Customers.bad
+data=OnlineRetaill.dat
+direct=true
